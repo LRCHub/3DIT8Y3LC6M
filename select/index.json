@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Animal",
+  "base_artist": "AURORA",
+  "createdAt": "2025-12-02T21:04:25.731369Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Animal Lover",
+      "artist": "Suede",
+      "has_synced": true,
+      "path": "select/01_Animal_Lover_Suede.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Animal Nitrate",
+      "artist": "Suede",
+      "has_synced": true,
+      "path": "select/02_Animal_Nitrate_Suede.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Animal Rap",
+      "artist": "Jedi Mind Tricks feat. Kool G Rap",
+      "has_synced": true,
+      "path": "select/03_Animal_Rap_Jedi_Mind_Tricks_feat._Kool_G_Rap.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Animal Rap (ft. Kool G. Rap)",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/04_Animal_Rap_(ft._Kool_G._Rap)_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Animal",
+      "artist": "Chris Brown feat. Young Thug",
+      "has_synced": true,
+      "path": "select/05_Animal_Chris_Brown_feat._Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Animal",
+      "artist": "Chris Brown & Young Thug",
+      "has_synced": true,
+      "path": "select/06_Animal_Chris_Brown_&_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Animal Language",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/07_Animal_Language_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Animal Backwards",
+      "artist": "Minus the Bear",
+      "has_synced": true,
+      "path": "select/08_Animal_Backwards_Minus_the_Bear.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Animal Kingdom",
+      "artist": "Meat Puppets",
+      "has_synced": false,
+      "path": "select/09_Animal_Kingdom_Meat_Puppets.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Animal Tracks",
+      "artist": "Mountain Man",
+      "has_synced": true,
+      "path": "select/10_Animal_Tracks_Mountain_Man.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Animal",
+      "artist": "Murs feat. Phonte",
+      "has_synced": true,
+      "path": "select/11_The_Animal_Murs_feat._Phonte.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Animal",
+      "artist": "Murs",
+      "has_synced": true,
+      "path": "select/12_The_Animal_Murs.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Animal (F**k Like a Beast) (live)",
+      "artist": "W.A.S.P.",
+      "has_synced": false,
+      "path": "select/13_Animal_(F_k_Like_a_Beast)_(live)_W.A.S.P..txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Animal (Fuck Like a Beast) (12\" A-Side)",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/14_Animal_(Fuck_Like_a_Beast)_(12__A-Side)_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm An Animal",
+      "artist": "Neko Case",
+      "has_synced": true,
+      "path": "select/15_I'm_An_Animal_Neko_Case.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Past Is A Grotesque Animal",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/16_The_Past_Is_A_Grotesque_Animal_of_Montreal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Animal",
+      "artist": "AURORA",
+      "has_synced": false,
+      "path": "select/pl_01_Animal_AURORA.txt"
+    }
+  ]
+}
